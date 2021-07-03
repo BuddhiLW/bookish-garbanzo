@@ -88,16 +88,16 @@ CLOSED: [2021-03-17 Wed 09:37 +1d]
 
 
 # Faculdade
-* TODO Wei-Liang TCC
+* TODO Wei-Liang [[file:Metrics.org::*\[\[file:Tasks.org::*Wei-Liang TCC\]\[TCC\]\]][TCC]]
 SCHEDULED: <2021-06-22 Tue>
 Hi, Pedro,
 
 Thanks for the progress, few comments below
 
-** TODO Abstract
+*** Abstract
 I am not sure about the rules, but probably you will need an English version abstract.
 Also, I am actually a bit slow to think of the organization of a paper/monograph when things are in Portuguese, but I will try.
-** DONE Introduction  - How pieces fit together
+*** DONE Introduction  - How pieces fit together
 CLOSED: [2021-06-22 Tue 01:01]
 :LOGBOOK:
 - State "DONE"       from "NEXT"       [2021-06-22 Tue 01:01]
@@ -106,7 +106,11 @@ In the introduction section, you will need a place to explain how each section o
 By enumerating the content of the entire writing, you need to explain the logic and relation between different parts of the monograph.
 It seems still missing from the present version.
 
-** TODO Smoother Progression - Bibliography (Why EXWM?)
+*** DONE Smoother Progression - Bibliography (Why EXWM?)
+CLOSED: [2021-06-30 Wed 12:50]
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2021-06-30 Wed 12:50]
+:END:
 The current content seems still a bit wild, you start from some very general concepts or notions (open source, and Linux) to some very specific applications.
 Maybe, this can be somehow alleviated by adding some discussions about the general types/categories of open source software/operational systems.
 Then mention that due to personal experience, we will only address a few specific ones of them.
@@ -114,3 +118,23 @@ Then mention that due to personal experience, we will only address a few specifi
 
 
 # Profissional
+** 30 Jun
+*** Results
+*** Presentation
+
+* Clojure(Script)
+** TODO Swap!
+
+Understand the syntax and functionality
+
+#+begin_src clojure
+  (swap! state/orders update id inc)
+#+end_src
+* DONE Flow challenge 
+CLOSED: [2021-06-30 Wed 12:37] SCHEDULED: <2021-06-25 Fri> DEADLINE: <2021-06-28 Mon>
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2021-06-30 Wed 12:37]
+CLOCK: [2021-06-25 Fri 17:41]
+:END:
+** Clocks
+CLOCK: [2021-06-25 Fri 17:10]--[2021-06-25 Fri 17:35] =>  0:25
