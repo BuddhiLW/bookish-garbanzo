@@ -1,3 +1,6 @@
+#+STARTUP: indent
+#+STARTUP: align
+
 * Pomodoro
 ** Clojure(Script)
 *** Clocks
@@ -16,7 +19,7 @@ CLOCK: [2021-06-24 Thu 10:45]--[2021-06-24 Thu 11:10] =>  0:25
 - State "DONE"       from "NEXT"       [2021-06-30 Wed 10:05]
 CLOCK: [2021-06-30 Wed 09:37]--[2021-06-30 Wed 10:02] =>  0:25
 :END:
-*** NEXT Notes
+*** Notes
 1. Michkin, generala e suas filhas, aleksandra, adelaide e aglaia.
 2. Analogia ao seu tempo na suiça, num pequeno vilarejo, ao se recuperar e Micke em Better Call Saul ao se recuperar.
 3. Análise, com Dramatismo, dos Motivos, em diversas perspectivas, desse encontro.
@@ -33,10 +36,15 @@ CLOCK: [2021-06-30 Wed 08:19]--[2021-06-30 Wed 08:44] =>  0:25
 
 ** TODO [[file:Tasks.org::*Wei-Liang TCC][TCC]]
 :LOGBOOK:
+CLOCK: [2021-07-06 Tue 10:21]
 :END:
 *** Clocks 
-** Emacs
+CLOCK: [2021-07-03 Sat 20:20]--[2021-07-03 Sat 20:45] =>  0:25
+CLOCK: [2021-07-06 Tue  05:00]--[2021-07-06 Tue 06:30] =>  1:30
+CLOCK: [2021-07-06 Tue 09:28]--[2021-07-06 Tue 09:53] =>  0:25
+** TODO Emacs
 :LOGBOOK:
+CLOCK: [2021-07-07 Wed 08:28]--[2021-07-07 Wed 08:53] =>  0:25
 - State "DONE"       from "NEXT"       [2021-06-23 Wed 04:50]
 :END:
 *** Clocks
@@ -47,21 +55,23 @@ CLOCK: [2021-06-23 Wed 04:20]--[2021-06-23 Wed 04:45] =>  0:25
    CLOCK: [2021-06-19 Sat 21:03]--[2021-06-19 Sat 21:53] =>  0:50
    
 ** Work
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2021-06-24 Thu 08:58]
-- State "DONE"       from "BACKLOG"    [2021-06-23 Wed 06:48]
-- State "DONE"       from "NEXT"       [2021-06-23 Wed 06:48]
-:END:
 *** Clock
 CLOCK: [2021-06-23 Wed 04:51]--[2021-06-23 Wed 05:16] =>  0:25
 CLOCK: [2021-06-23 Wed 05:24]--[2021-06-23 Wed 05:49] =>  0:25
 CLOCK: [2021-06-23 Wed 06:17]--[2021-06-23 Wed 06:42] =>  0:25
 CLOCK: [2021-06-24 Thu 08:07]--[2021-06-24 Thu 08:32] =>  0:25
 CLOCK: [2021-06-24 Thu 07:27]--[2021-06-24 Thu 07:52] =>  0:25
-** TODO University
+CLOCK: [2021-07-05 Mon 09:49]--[2021-07-05 Mon 10:14] =>  0:25
+** NEXT University
+:LOGBOOK:
+CLOCK: [2021-07-06 Tue 05:12]--[2021-07-06 Tue 05:37] =>  0:25
+:END:
 *** NEXT LOM3203 - Controle e Automação
 SCHEDULED: <2021-06-28 Mon> DEADLINE: <2021-07-08 Thu>
-1 Aula por dia (28/06/2021)
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2021-07-05 Mon 09:50]
+:END:
+3 aulas por dia
 **** Clock
 *** DONE LOM3213 - Fenômenos de Transporte
 CLOSED: [2021-06-30 Wed 12:33]
@@ -83,17 +93,31 @@ CLOCK: [2021-06-28 Mon 14:14]--[2021-06-28 Mon 14:39] =>  0:25
 CLOCK: [2021-06-28 Mon 14:57]--[2021-06-28 Mon 15:22] =>  0:25
 CLOCK: [2021-06-28 Mon 16:53]--[2021-06-28 Mon 17:18] =>  0:25
 CLOCK: [2021-06-28 Mon 16:07]--[2021-06-28 Mon 16:32] =>  0:25
-*** TODO LOM XXXX - Processos de Fabricação  
+*** DONE LOM XXXX - Processos de Fabricação  
+CLOSED: [2021-07-05 Mon 09:50]
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2021-07-05 Mon 09:50]
+:END:
 *** Clocks
 CLOCK: [2021-06-28 Mon 13:32]--[2021-06-28 Mon 13:57] =>  0:25
-** DONE Wim Hof 
-CLOSED: [2021-06-30 Wed 12:31]
+** TODO Wim Hof 
 :LOGBOOK:
+CLOCK: [2021-07-07 Wed 09:06]
+- State "DONE"       from "NEXT"       [2021-07-06 Tue 05:11]
+- State "DONE"       from "NEXT"       [2021-07-05 Mon 13:06]
+- State "DONE"       from "NEXT"       [2021-07-03 Sat 22:55]
 - State "DONE"       from "NEXT"       [2021-06-30 Wed 12:31]
 :END:
 *** Clock
 CLOCK: [2021-06-30 Wed 10:26]--[2021-06-30 Wed 10:51] =>  0:25
-
+CLOCK: [2021-07-03 Sat 18:27]--[2021-07-03 Sat 18:51] => 0:24
+** General Research 
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2021-07-05 Mon 14:08]
+:END:
+** Mandarim
+:LOGBOOK:
+:END:
 * Pomodoro Days Table
 ** Jun 19th 2021
   | Clojure(Script)       | Reading               | TCC | Emacs | Blogging              |
@@ -130,3 +154,64 @@ CLOCK: [2021-07-02 Fri 17:02]--[2021-07-02 Fri 17:27] =>  0:25
 | ---- Monograph ---- | --- Time --- |
 |---------------------+--------------|
 | 17:02 - 17:27       |         0:25 |
+
+** Jul 3th 2021
+CLOCK: [2021-07-03 Sat 18:27]--[2021-07-03 Sat 18:51] => 0:24
+CLOCK: [2021-07-03 Sat 22:58]--[2021-07-03 Sat 23:23] =>  0:25
+
+| ---- Wim Hof Method ---- | --- Time --- |
+|--------------------------+--------------|
+| 18:27 - 18:51            |         0:24 |
+
+| ---- Mandarim ---- | --- Time --- |
+|--------------------+--------------|
+| 22:58 - 23:23      |         0:25 |
+
+** Jul 5th 2021 
+
+*** Work
+CLOCK: [2021-07-05 Mon 09:49]--[2021-07-05 Mon 10:14] =>  0:25
+| ---- Flow ---- | --- Time --- |
+|----------------+--------------|
+| 09:49 - 10:25  |         0:32 |
+
+**** Notes
+- First clock, organizing my Google Agenda.
+
+
+*** General Research
+CLOCK: [2021-07-05 Mon 13:06]--[2021-07-05 Mon 13:31] =>  0:25
+| ---- G.R. ---- | --- Time --- |
+|----------------+--------------|
+| 13:06 - 13:56 |         0:50 |
+
+**** Notes
+***** Talk on Outliers
+- Watched 16 minutes of [[https://www.youtube.com/watch?v=EcMKLwVlpJk][Gladwell's talk]] on Microsoft
+***** IQ test
+- Took my iq test (~30 minutes) - 128 IQ, according to Norway's website test. 
+#+attr_html: :width 400
+ [[file:~/org-roam/QI.png][file:~/org-roam/QI.png]] 
+
+I annually take these tests. Generally, they are around 125 IQ. So, it's very consistent every time.
+
+** Jul 6h 2021
+***  TCC
+CLOCK: [2021-07-06 Tue  05:00]--[2021-07-06 Tue 06:30] =>  1:30
+CLOCK: [2021-07-06 Tue 08:36]--[2021-07-06 Tue 09:01] =>  0:25
+CLOCK: [2021-07-06 Tue 09:28]--[2021-07-06 Tue 09:53] =>  0:25
+| ---- TCC---	 | --- Time --- |
+|----------------+--------------|
+| 05:00 - 06:30	 |	   1:30 |
+| 08:36 - 09:01	 |	   0:25 |
+| 09:28 - 09:53	 |	   0:25 |
+| ~20:40 - 23:00 |	  ~2:20 |
+
+*** Wim hof
+CLOCK: [2021-07-05 Mon 11:31]--[2021-07-05 Mon 11:56] =>  0:25
+CLOCK: [2021-07-05 Mon 10:52]--[2021-07-05 Mon 11:17] =>  0:25
+
+** Jul 7th 2021
+*** Emacs
+CLOCK: [2021-07-07 Wed 08:28]--[2021-07-07 Wed 08:53] =>  0:25
+
